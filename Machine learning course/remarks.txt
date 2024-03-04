@@ -1,0 +1,8 @@
+For python 3.8 Turicreate environment type:
+
+wsl
+
+conda activate TuriCreateEnv
+
+then optionally launch
+python -m jupyterlab
